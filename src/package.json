@@ -1,0 +1,11 @@
+{
+  "name": "isaac-webhook-backend_sample",
+  "version": "1.0.0",
+  "description": "Isaac Webhook Backend Sample",
+  "main": "index.js",
+  "author": "Ferimer",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
